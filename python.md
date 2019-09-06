@@ -2,6 +2,7 @@
 B站网址:https://www.bilibili.com/video/av32712038/?spm_id_from=333.788.videocard.9
 代码:https://gitee.com/komavideo
 官网:http://komavideo.com/
+现在全部都用python3
 ## P1课程介绍
 1. 官方网站:https://www.python.org/
 2. 标准库:https://docs.python.org/3/
@@ -26,6 +27,10 @@ print(Hello())
 - 右击文件选择"在终端中打开",输入py Hello.py(py是之前安装包中勾选了py等于python)[推荐]
 - 在终端中输入exit就可以关闭界面
 - 也可以直接将光标放在文件中,右键"在终端中运行python文件"
+8. 在idea中使用python
+python在pip install selenium时虽然在lib文件夹下下载成功,但是仍然不识别
+Tools->manage python packages->在Interpreter界面双击pip->搜索selenium(完全匹配,无任何前后缀)安装即可
+
 
 ## P3命令行模式
 - 命令行的使用
