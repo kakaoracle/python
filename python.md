@@ -16,13 +16,13 @@ B站网址:https://www.bilibili.com/video/av32712038/?spm_id_from=333.788.videoc
 2. 检查安装后的版本:python -V或者py -V
 3. pip -V:指的是用nip包管理器安装工程或者第三方库到本地的位置
 4. 设置环境变量,在python中添加pip命令的路径,C:\Software\Python3\Scripts(下面有pip.exe)
+5. pip -list:查看所有已安装好库
 ## 各种模块命令安装
-0. 因为所有的第三方库在pip安装之后在idea中都还需要再配置interpreter才可以使用.因此推荐用vscode开发
 1. bs4模块:pip install beautifulsoup4
 2. selenium模块:pip install selenium时虽然在lib文件夹下下载成功,但是仍然不识别
     Setting->Tools->manage python packages->在Interpreter界面双击pip->搜索selenium(完全匹配,无任何前后缀)安装即可
 3. urllib:注意在python3.x中,urllib2与urllib都变成了urllib,并且urllib.request升级,不再是方法,而是一个单独的模块
-4. 
+4. django模块:pip install django==1.10.1(1.10.1是指定版本号)
 
 ### 在VSCode中使用Python
 4. 在VSCode中安装Python插件,也就是解释器
