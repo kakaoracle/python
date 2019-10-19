@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/python.iml" filepath="$PROJECT_DIR$/python.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../demo_Combined/SpringBoot-demo/springboot-restful-mybatis/springboot-restful-mybatis.iml" filepath="$PROJECT_DIR$/../demo_Combined/SpringBoot-demo/springboot-restful-mybatis/springboot-restful-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo_Combined/SpringBoot-demo/springbootAxiom/springbootAxiom.iml" filepath="$PROJECT_DIR$/../demo_Combined/SpringBoot-demo/springbootAxiom/springbootAxiom.iml" />
     </modules>
   </component>
 </project>
